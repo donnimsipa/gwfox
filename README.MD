@@ -33,4 +33,3 @@
   - Bookmark toolbar hidden at the top: add `gwfox.plus_tb` set to `true`
 - Remove window border: add `gwfox.noborder` set to `true`
 - Add `gwfox.atbc` to enable [Adaptive Tab Bar Colour](https://addons.mozilla.org/firefox/addon/adaptive-tab-bar-colour)
-- Add `gwfox.bms` enable blur effects using [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell)
